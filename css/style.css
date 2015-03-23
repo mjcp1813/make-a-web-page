@@ -1,0 +1,40 @@
+
+h1{background-color:#DEB887;
+    Padding: 40px 4px;
+  text-align: left;
+  Font-family:Verdana;
+  color: Black;
+  Border-radius: 20px;
+  Border-color:black;
+   Border-Style:Solid;
+}
+h2{background-color:#E9967A;
+  Padding: 10px 10px;
+  text-align: center;
+  Font-family:Verdana;
+  color: Black;
+  Border-radius: 20px;
+  Border-color:black;
+   Border-Style:Solid;
+  Margin:auto;
+  Max-width:2000px;}
+.Concept-Title{Padding: 10px 10px;
+  text-align: left;
+  Font-family:Verdana;}
+
+.Concept-Description{background-color:#DEB887;
+  Padding: 10px 10px;
+  text-align: Left;
+  Font-family:Verdana;
+  color: Black;
+  Border-radius: 20px;
+  Border-color:black;
+  Border-Style:Solid;
+  Max-width:2000px; 
+  }
+
+.Concept-List{Padding: 5px 10px;
+  Font-family:Verdana;
+  color: Black;}
+
+.Concept-menu{font-size:1.4em;}
